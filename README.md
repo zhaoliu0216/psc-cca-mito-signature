@@ -93,3 +93,6 @@ pip install -r requirements.txt
 ## License
 
 MIT License — see [LICENSE](LICENSE).
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24539374.svg)](https://doi.org/10.5281/zenodo.24539374)
+
